@@ -1,22 +1,10 @@
-.reveal h1,
-.reveal h2,
-.reveal h3,
-.reveal h4,
-.reveal h5,
-.reveal h6 {
-    text-transform: none;
+.slidelink {
+    position: absolute;
+    right: 20px;
+    top: 0;
+    z-index: 10000;
 }
 
-.reveal .slides img {
-    border: none;
-    background: none;
-    box-shadow: none;
-}
-
-.reveal .slides .two-third {
-    margin-right: 33%;
-}
-
-.reveal .slides section figure figcaption {
-    font-size: 0.8em;
+.slidelink a {
+    font-size: 0.5em;
 }
