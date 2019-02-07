@@ -273,4 +273,5 @@ body {
     background-color: #222; } }
 
 .reveal section img {
-  border: none; }
+  border: none;
+  background: none; }
