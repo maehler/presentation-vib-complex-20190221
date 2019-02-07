@@ -271,3 +271,6 @@ body {
 @media print {
   .backgrounds {
     background-color: #222; } }
+
+.reveal section img {
+  border: none; }
