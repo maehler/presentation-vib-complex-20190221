@@ -274,7 +274,8 @@ body {
 
 .reveal section img {
   border: none;
-  background: none; }
+  background: none;
+  box-shadow: none; }
 
 .slidelink {
   position: absolute;
