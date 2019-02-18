@@ -275,3 +275,30 @@ body {
 .reveal section img {
   border: none;
   background: none; }
+
+.slidelink {
+  position: absolute;
+  right: 20px;
+  top: 0;
+  z-index: 10000;
+  opacity: 0.75; }
+
+.twitterlink {
+  position: absolute;
+  left: 5px;
+  bottom: 5px;
+  z-index: 10000;
+  opacity: 0.75; }
+
+.twitterlink i {
+  color: #4AA1FF; }
+
+.slidelink a,
+.twitterlink a {
+  font-family: 'Source Sans Pro';
+  color: white;
+  text-decoration: none;
+  font-size: 1em; }
+
+.twitterlink a {
+  font-size: 1.5em; }
