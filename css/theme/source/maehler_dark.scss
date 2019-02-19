@@ -85,3 +85,31 @@ section.has-light-background {
 .twitterlink a {
     font-size: 1.5em;
 }
+
+.slides figure {
+    display: block;
+    margin: 0 auto;
+}
+
+.slides figure.right {
+    float: right;
+    margin-right: 5%;
+}
+
+.slides figure.left {
+    float: left;
+    margin-left: 5%;
+}
+
+.slides figure img {
+    position: relative;
+    width: 100%;
+    margin-bottom: 0;
+}
+
+.slides figure figcaption {
+    font-size: 0.5em;
+    text-align: left;
+    margin: 0 1ex;
+    margin-top: -0.5em;
+}
